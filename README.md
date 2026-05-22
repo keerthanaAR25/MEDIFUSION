@@ -1,4 +1,4 @@
-# MediFusion
+# MEDIFUSION: A MULTIMODAL AI SYSTEM FOR CLINICAL  DIAGNOSIS USING SPEECH, IMAGING, OCR, AND LARGE LANGUAGE MODELS
 
 ## Multimodal AI Healthcare Framework using Deep Learning, RAG, and LLaMA 3.1
 
