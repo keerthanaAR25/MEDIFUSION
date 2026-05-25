@@ -79,7 +79,20 @@ The framework further integrates LLaMA 3.1 for contextual medical reasoning, mul
 
 # Performance Summary
 
+Traditional Model Evaluation
+<img width="897" height="759" alt="image" src="https://github.com/user-attachments/assets/ca180733-c11a-497b-9bdc-f6294ffc20b2" />
 <img width="555" height="583" alt="image" src="https://github.com/user-attachments/assets/aee7b9f6-b2ae-4bc2-8747-23abda3a660c" />
+
+LLM Model Evaluation
+<img width="1401" height="591" alt="image" src="https://github.com/user-attachments/assets/d529fced-ebcc-42c3-9f9a-47645b7603fe" />
+<img width="1713" height="900" alt="Screenshot 2026-04-14 113305" src="https://github.com/user-attachments/assets/073b60a7-87e0-4a62-bcbb-a931fdab6811" />
+
+
+novel comparison
+<img width="420" height="480" alt="image" src="https://github.com/user-attachments/assets/cb9fef88-72d1-49f1-930f-a20ffe35432b" />
+
+
+
 
 
 ---
